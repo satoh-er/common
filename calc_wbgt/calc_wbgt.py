@@ -36,7 +36,20 @@ def f_natural_wet_bulb_temperature(
         velocity: float,
         globe_temperature: float
         ):
+    """WBGT計算における湿球温度の関数
+
+    Args:
+        natural_wet_bulb_temperature (float): 湿球温度[℃]
+        dry_bulb_temperature (float): 乾球温度[℃]
+        relative_humidity (float): 相対湿度[%]
+        velocity (float): 風速[m/s]
+        globe_temperature (float): グローブ温度[℃]
+
+    Returns:
+        float: WBGT[℃]
+    """
     
+    #　グローブ球の平均放射温度を計算
     t_r = calc_average_radiant_temperature(
         globe_temperature=globe_temperature,
         dry_bulb_temperature=dry_bulb_temperature,
@@ -51,7 +64,7 @@ def f_natural_wet_bulb_temperature(
                                     * calc_pas(dry_bulb_temperature=dry_bulb_temperature))
 
 def calc_pas(dry_bulb_temperature: float) -> float:
-    """飽和水蒸気圧を計算する
+    """飽和水蒸気圧を計算する（Wexler-Hyland）
 
     Args:
         dry_bulb_temperature (float): 乾球温度[℃]
