@@ -54,7 +54,7 @@ def calc_sh_sw_ss(df: pd.DataFrame) -> tuple[np.ndarray, np.ndarray, np.ndarray]
 
     h = np.radians(df['altitude'].values)
     a = np.radians(df['azimuth'].values)
-    # Calculate the solar radiation
+    # 太陽位置を表すsh, sw, ssの計算
     sh = np.sin(h)
     sw = np.cos(h) * np.sin(a)
     ss = np.cos(h) * np.cos(a)
@@ -62,11 +62,11 @@ def calc_sh_sw_ss(df: pd.DataFrame) -> tuple[np.ndarray, np.ndarray, np.ndarray]
     return sh, sw, ss
 
 def calc_wz_ww_ws(wa: float, wb: float) -> tuple[float, float, float]:
-    """Calculate the solar radiation
+    """傾斜面の方位角、傾斜角からwz、ww、wsを計算する
 
     Args:
-        wa (float): _description_
-        wb (float): _description_
+        wa (float): 傾斜面の方位角[rad]（南を0とし、東を正とする）
+        wb (float): 傾斜面の傾斜角[rad]（水平を0とし、垂直を正とする）
 
     Returns:
         tuple[float, float, float]: _description_
