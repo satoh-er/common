@@ -30,7 +30,7 @@ def download_downward_radiation():
     """
     
     ds = datetime.date(1993, 1, 1)
-    de = datetime.date(2023, 5, 1)
+    de = datetime.date(2025, 3, 1)
 
     url_base = 'https://www.data.jma.go.jp/gmd/env/radiation/data/geppo/' 
 
@@ -78,7 +78,7 @@ def total_downward_radiation():
     """
 
     ds = datetime.date(1993, 1, 1)
-    de = datetime.date(2023, 4, 1)
+    de = datetime.date(2025, 3, 1)
 
     # 開始日から終了日まで月ごとにループ
     current_date = ds
@@ -171,12 +171,12 @@ def get_weather_data():
     """
 
     ds = datetime.date(1993, 1, 1)
-    de = datetime.date(2023, 4, 30)
+    de = datetime.date(2025, 3, 31)
     # de = datetime.date(1993, 1, 2)
 
     # CSV の列
     fields = ["年月日", "時間", "気圧（現地）", "気圧（海面）",
-              "降水量", "気温", "露点湿度", "蒸気圧", "湿度",
+              "降水量", "気温", "露点温度", "蒸気圧", "湿度",
               "風速", "風向", "日照時間", "全天日射量", "降雪", "積雪"] # 天気、雲量、視程は今回は対象外とする
 
     with open('weather/tateno_weather_data.csv', 'w', encoding='shiftJIS') as f:
@@ -229,7 +229,7 @@ def calc_R_GRD():
 
 if __name__ == '__main__':
 
-    download_downward_radiation()
-    total_downward_radiation()
+    # download_downward_radiation()
+    # total_downward_radiation()
     get_weather_data()
     calc_R_GRD()
