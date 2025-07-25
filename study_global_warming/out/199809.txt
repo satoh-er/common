@@ -1,0 +1,59 @@
+                                                                                                                                                  
+                                                                                                                                                  
+                                                               *******************************                                                    
+                                                                 DOWNWARD LONGWAVE RADIATION                                                      
+                                                               *******************************                                                    
+                                                                                                                  COUNTRY = JAPAN                 
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                     UNIT  = 0.01 MJ/m**2                                                         
+                        STATION    : Tateno                                                                                                       
+                        STATION NO.: 47646                                                                                                        
+                        LOCATION   : 140ﾟ08' E                                                                                                    
+                                      36ﾟ03' N                                                                                                    
+                        ALTITUDE   :   25.2  m                                                                                                    
+                        YEAR/MONTH : 1998/09                                                                                                      
+                                                                                                                                                  
+              DATE   -01  -02  -03  -04  -05  -06  -07  -08  -09  -10  -11  -12  -13  -14  -15  -16  -17  -18  -19  -20  -21  -22  -23  -24  TOTAL
+                                                                                                                                                  
+               9 1   152  149  149  149  149  149  149  153  153  153  155  154  156  155  152  149  149  144  136  135  135  135  135  138   3533
+               9 2   145  147  147  148  149  149  149  149  150  149  150  150  151  151  149  144  148  141  143  150  149  141  138  141   3528
+               9 3   151  149  151  150  150  148  XXX  XXX  XXX  XXX  XXX  XXX  151  146  145  149  137  135  133  133  134  135  133  132   XXXX
+               9 4   131  132  138  142  139  135  141  140  141  144  152  151  152  152  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  134   XXXX
+               9 5   147  141  139  147  147  148  147  145  140  147  151  151  145  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               9 6   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               9 7   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               9 8   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               9 9   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               910   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               911   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               912   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               913   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               914   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               915   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               916   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               917   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               918   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               919   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               920   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               921   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               922   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               923   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               924   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               925   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               926   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               927   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               928   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               929   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+               930   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+              ------------------------------------------------------------------------------------------------------------------------------------
+              TOTAL  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+              MEAN   XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+              MAX    XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX  XXX   XXXX
+                N      5    5    5    5    5    5    4    4    4    4    4    4    5    4    3    3    3    3    3    3    3    3    3    4      2
+              NOTE                                                                                                                                
+                                                                                                                                                  
+                   *): WITH MISSING DATA; TOTAL,MEAN,MAXIMUM ESTIMATED                                                                            
+                                                                                                                                                  
+                                                                                                                                                  
+                                                                                                                                                  
